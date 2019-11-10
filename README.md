@@ -18,7 +18,7 @@ In your command line write:
 expo init AwesomeProject
 You should get a message like: Your project is ready
 Then type in the command: cd <yourprojectname>
- 
+
 On your phone install the Expo App
 Make sure that your laptop is connected to the same wifi as your phone
 Open your project in an editor, I recommend using VSCODE
