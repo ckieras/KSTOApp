@@ -5,6 +5,7 @@
 http://facebook.github.io/react-native/docs/getting-started.html
 Download node.js  https://nodejs.org/en/download/
 **Node JS version must be 10.6.3**
+Find the .msi file to install the older version.
 ```
 ```
 Close and reopen your command prompt!
